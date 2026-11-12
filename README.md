@@ -19,7 +19,7 @@
 
 - 🎓 Actualmente soy **estudiante de Desarrollo de Software** en el **ITM**
 - 🌐 Me interesan las **redes**: he diseñado topologías en **Cisco Packet Tracer**
-- 🌱 Ahora mismo estoy aprendiendo **Python** 
+- 🌱 Ahora mismo estoy aprendiendo **Python y C#** 
 - 🗣️ Español nativo · Inglés en proceso
 - 🎯 Meta: **certificarme en CCNA y AWS**
 - ⚡ Dato curioso: **me encantan las motos 🏍️ e ir al estadio ⚽**
