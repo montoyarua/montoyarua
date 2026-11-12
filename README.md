@@ -29,7 +29,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,c#,aws,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,c#,aws,vscode&perline=9" />
 </p>
 
 <!-- Cambia la lista de iconos por los tuyos: https://skillicons.dev -->
