@@ -18,12 +18,12 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Actualmente soy **estudiante de [TU CARRERA]** en **[TU UNIVERSIDAD]**
+- 🎓 Actualmente soy **estudiante de Desarrollo de Software** en el **ITM**
 - 🌐 Me interesan las **redes**: he diseñado topologías en **Cisco Packet Tracer**
-- 🌱 Ahora mismo estoy aprendiendo **[TECNOLOGÍA]**
+- 🌱 Ahora mismo estoy aprendiendo **Python** 
 - 🗣️ Español nativo · Inglés en proceso
-- 🎯 Meta: **[ej. conseguir mis primeras prácticas / certificarme en CCNA]**
-- ⚡ Dato curioso: **[algo tuyo, ej. me encantan las motos 🏍️]**
+- 🎯 Meta: **[certificarme en CCNA y AWS]**
+- ⚡ Dato curioso: **[me encantan las motos 🏍️]**
 
 ---
 
@@ -41,8 +41,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [Red LAN en Packet Tracer](https://github.com/TU_USUARIO/REPO) | Diseño y configuración de una red empresarial con VLANs y enrutamiento | Cisco Packet Tracer |
-| [Proyecto 2](https://github.com/TU_USUARIO/REPO) | Breve descripción | Tecnología |
+| (https://github.com/montoyarua/golbet_appservices_w) | Diseño y configuración de una red empresarial con VLANs y enrutamiento | Cisco Packet Tracer |
+| (https://github.com/montoyarua/Programacion-de-Software) | Breve descripción | Tecnología |
 
 ---
 
