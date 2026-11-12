@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=montoyarua&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
   <a href="mailto:juanjo271200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/juan-josé-montoya-rua-b96776219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -30,7 +29,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,c#,aws,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,c#,aws,linux,vscode&perline=9" />
 </p>
 
 <!-- Cambia la lista de iconos por los tuyos: https://skillicons.dev -->
