@@ -21,15 +21,15 @@
 - 🌐 Me interesan las **redes**: he diseñado topologías en **Cisco Packet Tracer**
 - 🌱 Ahora mismo estoy aprendiendo **Python** 
 - 🗣️ Español nativo · Inglés en proceso
-- 🎯 Meta: **[certificarme en CCNA y AWS]**
-- ⚡ Dato curioso: **[me encantan las motos 🏍️]**
+- 🎯 Meta: **certificarme en CCNA y AWS**
+- ⚡ Dato curioso: **me encantan las motos 🏍️ e ir al estadio ⚽**
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,c#,aws,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,cs,dotnet,aws" />
 </p>
 
 <!-- Cambia la lista de iconos por los tuyos: https://skillicons.dev -->
@@ -38,23 +38,12 @@
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
+| Proyecto | Descripción |
 |---|---|---|
-| (https://github.com/montoyarua/golbet_appservices_w) | Diseño y configuración de una red empresarial con VLANs y enrutamiento | Cisco Packet Tracer |
-| (https://github.com/montoyarua/Programacion-de-Software) | Breve descripción | Tecnología |
+| (https://github.com/montoyarua/golbet_appservices_w) | Aplicación de apuestas |
+| (https://github.com/montoyarua/Programacion-de-Software) | Resumen de desarrollo de Software |
+| (https://github.com/montoyarua/voting-api-fastapi) | API de Sistema de Votación |
 
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
