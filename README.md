@@ -38,11 +38,10 @@
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción |
+| Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| (https://github.com/montoyarua/golbet_appservices_w) | Aplicación de apuestas |
-| (https://github.com/montoyarua/Programacion-de-Software) | Resumen de desarrollo de Software |
-| (https://github.com/montoyarua/voting-api-fastapi) | API de Sistema de Votación |
+| [⚽ GolBet](https://github.com/montoyarua/golbet_appservices_w) | Aplicación de apuestas deportivas | C# · .NET |
+| [🗳️ Voting API](https://github.com/montoyarua/voting-api-fastapi) | API de un sistema de votación | Python · FastAPI |
 
 
 ---
